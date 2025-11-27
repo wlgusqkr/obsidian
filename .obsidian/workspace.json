@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Source Material/Http1 vs Http2.md",
+                "file": "Main Note/AllArgsConstructor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Http1 vs Http2"
+              "title": "AllArgsConstructor"
             }
           }
         ],
@@ -153,21 +153,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Source Material/Http1 vs Http2.md",
+                "file": "Main Note/AllArgsConstructor.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Http1 vs Http2"
+              "title": "Outline of AllArgsConstructor"
+            }
+          },
+          {
+            "id": "aaefbf140c8f8869",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,18 +187,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e38606f08befb8e3",
+  "active": "aaefbf140c8f8869",
   "lastOpenFiles": [
-    "Indexs/Java.md",
     "Source Material/Http1 vs Http2.md",
+    "Main Note/AllArgsConstructor.md",
+    "Tags/Lombok.md",
+    "Tags/Database.md",
+    "Tags/JPA.md",
+    "Welcome.md",
+    "Indexs/Java.md",
     "Indexs",
     "Source Material",
     "Tags",
     "Template",
-    "Main",
-    "Welcome.md"
+    "Main Note"
   ]
 }
